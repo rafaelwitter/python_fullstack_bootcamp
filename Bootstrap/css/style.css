@@ -1,0 +1,19 @@
+body{
+    font: 20px Arial, sans-serif;
+    background-image: url("https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?cs=srgb&dl=agil-alcatrao-asfalto-auto-164634.jpg&fm=jpg") ;
+}
+
+.bg-light {
+    background-color: green;
+}
+
+.quem-somos {
+    background-color: gray;
+}
+
+.margin{
+
+    padding-top: 5px;
+    padding-bottom: 0px;
+
+}
